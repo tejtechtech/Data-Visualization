@@ -1,11 +1,11 @@
 # Data-Visualization
 
-import javax.swing.*;
-import java.awt.*;
-import java.util.Arrays;
-import java.util.Random;
+    import javax.swing.*;
+    import java.awt.*;
+    import java.util.Arrays;
+    import java.util.Random;
 
-public class CustomSortApp extends JFrame {
+    public class CustomSortApp extends JFrame {
     private int[] array;
     private SortPanel sortPanel;
     private JComboBox<String> algorithmComboBox;
